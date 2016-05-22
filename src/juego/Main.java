@@ -18,7 +18,7 @@ public class Main {
         // TODO code application logic here
         
         Juego play = new Juego();
-        play.iniciar();
+        play.iniciar(); // se ejecuta el primer thread
         
         
         
